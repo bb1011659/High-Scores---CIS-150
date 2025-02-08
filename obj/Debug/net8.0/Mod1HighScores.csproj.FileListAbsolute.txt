@@ -1,0 +1,14 @@
+C:\Users\bab10\source\repos\Mod1HighScores\bin\Debug\net8.0\Mod1HighScores.exe
+C:\Users\bab10\source\repos\Mod1HighScores\bin\Debug\net8.0\Mod1HighScores.deps.json
+C:\Users\bab10\source\repos\Mod1HighScores\bin\Debug\net8.0\Mod1HighScores.runtimeconfig.json
+C:\Users\bab10\source\repos\Mod1HighScores\bin\Debug\net8.0\Mod1HighScores.dll
+C:\Users\bab10\source\repos\Mod1HighScores\bin\Debug\net8.0\Mod1HighScores.pdb
+C:\Users\bab10\source\repos\Mod1HighScores\obj\Debug\net8.0\Mod1HighScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bab10\source\repos\Mod1HighScores\obj\Debug\net8.0\Mod1HighScores.AssemblyInfoInputs.cache
+C:\Users\bab10\source\repos\Mod1HighScores\obj\Debug\net8.0\Mod1HighScores.AssemblyInfo.cs
+C:\Users\bab10\source\repos\Mod1HighScores\obj\Debug\net8.0\Mod1HighScores.csproj.CoreCompileInputs.cache
+C:\Users\bab10\source\repos\Mod1HighScores\obj\Debug\net8.0\Mod1HighScores.dll
+C:\Users\bab10\source\repos\Mod1HighScores\obj\Debug\net8.0\refint\Mod1HighScores.dll
+C:\Users\bab10\source\repos\Mod1HighScores\obj\Debug\net8.0\Mod1HighScores.pdb
+C:\Users\bab10\source\repos\Mod1HighScores\obj\Debug\net8.0\Mod1HighScores.genruntimeconfig.cache
+C:\Users\bab10\source\repos\Mod1HighScores\obj\Debug\net8.0\ref\Mod1HighScores.dll
